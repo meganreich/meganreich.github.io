@@ -34,8 +34,6 @@ abstract: Abiotic change can alter species interactions by modifying species' tr
   ecosystems, the effects of drought on the trophic roles of species may be widespread.
   Such restructuring of food webs should be considered when attempting to predict
   the ecological effects of environmental change.
-tags:
-- Mine
 links:
 - name: URL
   url: https://doi.org/10.1007/s00442-019-04343-x
