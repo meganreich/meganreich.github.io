@@ -75,7 +75,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:mreic084@uottawa.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/meganreich13
@@ -88,9 +88,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/meganreich
-  - icon: linkedin
+  - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/in/reichmegan/
+    link: https://orcid.org/my-orcid?orcid=0000-0002-0597-4854
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
