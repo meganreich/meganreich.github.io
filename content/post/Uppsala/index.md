@@ -58,5 +58,5 @@ I learned a lot while in Sweden, and I hope to have results to share with you so
 Did I mention that I brought my cat with me? Like many millennials, I am overly attached to my pet. Milo did not enjoy the trans-Atlantic flight, but he enjoyed playing in the snow and watching the deer in the backyard of our cabin by the lake.
 
 
-
+{{ template "_internal/disqus.html" . }}
 

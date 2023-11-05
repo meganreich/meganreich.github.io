@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,14 +70,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/meganreich/meganreich.github.io'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    commentable: {news = true}
     provider: disqus
     disqus:
       shortname: meganreich-github-io
