@@ -3,7 +3,7 @@ title: Visiting Uppsala University
 subtitle: Thoughts on moving to Sweden in January, traveling with a cat, and starting new projects in the last year of a PhD
 
 # Summary for listings and search engines
-summary: Visiting Uppsala University
+summary: Thoughts on moving to Sweden in January, traveling with a cat, and starting new projects in the last year of a PhD
 
 # Link this post with a project
 projects: []
