@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Markdown
+title: Biology of Butterflies 2023
 date: 2019-07-12
 math: true
 image:

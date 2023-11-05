@@ -77,9 +77,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: disqus
     disqus:
-      shortname: ''
+      shortname: meganreich-github-io.disqus.com
       show_count: true
     commento:
       url: ''
