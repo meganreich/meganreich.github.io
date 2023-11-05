@@ -17,3 +17,4 @@ image:
 ## Off to Austria 
 
 
+{{ template "_internal/disqus.html" . }}
