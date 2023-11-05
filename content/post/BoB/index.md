@@ -1,11 +1,13 @@
 ---
 title: Biology of Butterflies 2023
 date: 2019-07-12
+commentable: true
 math: true
 image:
+  preview_only: true
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption: ''
 ---
 
 
-{{ template "_internal/disqus.html" . }}
+
