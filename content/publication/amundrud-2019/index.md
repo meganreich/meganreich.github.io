@@ -14,7 +14,6 @@ publishDate: '2023-11-05T04:51:27.368793Z'
 publication_types:
 - article-journal
 publication: '*Oecologia*'
-doi: 10.1007/s00442-019-04343-x
 abstract: Abiotic change can alter species interactions by modifying species' trophic
   roles, but this has not been well studied. Until now, bromeliad-dwelling tipulid
   larvae were thought to positively affect other macroinvertebrates via a facilitative
@@ -35,6 +34,9 @@ abstract: Abiotic change can alter species interactions by modifying species' tr
   Such restructuring of food webs should be considered when attempting to predict
   the ecological effects of environmental change.
 links:
-- name: URL
+links:
+- icon_pack: ai
+  icon: open-access
+  name: Open Access
   url: https://doi.org/10.1007/s00442-019-04343-x
 ---

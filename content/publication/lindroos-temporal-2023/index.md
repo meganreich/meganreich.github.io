@@ -12,7 +12,6 @@ publishDate: '2023-11-05T04:14:55.733553Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Ecology and Evolution*'
-doi: 10.3389/fevo.2023.1060836
 abstract: 'Hydrogen isotope geolocation of insects is based on the assumption that
   the chitin in the wings of adult migratory insects preserves the hydrogen isotope
   composition (δ2H) of the larval stages without influence of adult diet. Here,
@@ -42,6 +41,8 @@ tags:
 - Monarchs
 - Hydrogen isotopes
 links:
-- name: URL
+- icon_pack: ai
+  icon: open-access
+  name: Open Access
   url: https://www.frontiersin.org/articles/10.3389/fevo.2023.1060836/full
 ---

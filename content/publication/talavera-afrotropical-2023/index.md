@@ -30,7 +30,6 @@ publishDate: '2023-11-05T04:14:55.749858Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
-doi: 10.1073/pnas.2218280120
 abstract: 'Migratory insects are key players in ecosystem functioning and services,
   but their spatiotemporal distributions are typically poorly known. Ecological niche
   modeling (ENM) may be used to predict species seasonal distributions, but the resulting
@@ -53,6 +52,8 @@ abstract: 'Migratory insects are key players in ecosystem functioning and servic
 tags:
 - Painted ladies
 links:
-- name: URL
+- icon_pack: ai
+  icon: open-access
+  name: Open Access
   url: https://pnas.org/doi/10.1073/pnas.2218280120
 ---

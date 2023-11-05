@@ -16,7 +16,6 @@ date: '2023-07-01'
 publishDate: '2023-11-05T04:14:55.759794Z'
 publication_types:
 - article-journal
-doi: 10.22541/au.168897547.72773944/v1
 abstract: 'Rationale: Many insect species undertake multi-generational migrations
   in the Afro-tropical and Palearctic ranges, and understanding their migratory connectivity
   remains challenging due to their small size, short life span and large population
@@ -51,8 +50,8 @@ abstract: 'Rationale: Many insect species undertake multi-generational migration
   data and/or independent geolocation tools.'
 tags:
 - Hydrogen isotopes
-links:
-- name: URL
-  url: 
-    https://www.authorea.com/users/637469/articles/653780-a-hydrogen-isoscape-for-tracing-the-migration-of-terrestrial-herbivorous-insects-across-the-afro-palearctic-range?commit=cb0232fa2061bf8b0cae109a89d349e6bc26ee56
+  - icon_pack: ai
+    icon: open-access
+    name: Preprint
+    url: 'https://www.authorea.com/users/637469/articles/653780-a-hydrogen-isoscape-for-tracing-the-migration-of-terrestrial-herbivorous-insects-across-the-afro-palearctic-range?commit=cb0232fa2061bf8b0cae109a89d349e6bc26ee56'
 ---

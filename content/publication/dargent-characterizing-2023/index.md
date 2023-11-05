@@ -13,7 +13,6 @@ publishDate: '2023-11-05T04:14:55.741513Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Ecology and Evolution*'
-doi: 10.3389/fevo.2023.1060982
 abstract: 'Eastern spruce budworm moth (Choristoneura fumiferana (Clem.)) mass outbreaks
   have widespread economic and ecological consequences. A key explanation for the
   large-scale spread and synchronization of these outbreaks is the long-distance dispersal
@@ -51,6 +50,8 @@ tags:
 - Strontium isotopes
 - Hydrogen isotopes
 links:
-- name: URL
+- icon_pack: ai
+  icon: open-access
+  name: Open Access
   url: https://www.frontiersin.org/articles/10.3389/fevo.2023.1060982/full
 ---
