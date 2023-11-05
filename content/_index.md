@@ -139,6 +139,7 @@ sections:
       view: citation
   - block: collection
     id: news
+    commentable: true
     content:
       title: News
       subtitle: ''
