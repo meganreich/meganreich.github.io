@@ -49,10 +49,9 @@ For multiple reasons, I decided to start my trip in January. Seeing as I am from
 
 My experiment intended to explore the influence of host plant quality on the migratory ability of the painted lady butterfly (_Vanessa cardui_). This involved raising caterpillars on plants of differing quality. Luckily for me, Uppsala University has excellent facilities, and amazing staff, and I was able to use growth chambers to grow the plants.
 
-{{< gallery album="uppsala">}}
-
 I learned a lot while in Sweden, and I hope to have results to share with you soon!
-{{< video src="mill.mp4" >}}
+{{< gallery album="uppsala">}}
+{{< video src="mill2.mp4" >}}
 
 ## Adventure cat
 
