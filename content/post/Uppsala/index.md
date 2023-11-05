@@ -52,7 +52,7 @@ My experiment intended to explore the influence of host plant quality on the mig
 {{< gallery album="uppsala">}}
 
 I learned a lot while in Sweden, and I hope to have results to share with you soon!
-{{< video src="mill.MOV" controls="no">}}
+{{< video src="mill.mp4" controls="no">}}
 
 ## Adventure cat
 
