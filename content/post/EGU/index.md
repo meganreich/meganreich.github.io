@@ -4,6 +4,7 @@ subtitle: Navigating my largest conference yet!
 summary: Presenting at EGU 2023
 authors:
   - admin
+commentable: true
 tags: []
 categories: []
 projects: []
@@ -17,4 +18,4 @@ image:
 ## Off to Austria 
 
 
-{{ template "_internal/disqus.html" . }}
+
