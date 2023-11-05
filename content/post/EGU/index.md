@@ -10,12 +10,13 @@ categories: []
 projects: []
 date: '2023-11-02T00:00:00Z'
 image:
-  caption: ''
-  focal_point: ''
+  preview_only: true
 ---
 
 
 ## Off to Austria 
 
+Last April, I joined 15,000 other scientists in Vienna, Austria at the European Geosciences Union 2023 General Assembly. It was an absolutely inspiring experience - there were dozens of sessions you could attend at any given time and the quality of work was amazing.
 
+{{< gallery album = "egu">}}
 
