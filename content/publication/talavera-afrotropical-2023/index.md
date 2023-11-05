@@ -1,6 +1,6 @@
 ---
 title: The Afrotropical breeding grounds of the Palearctic-African migratory painted
-  lady butterflies ( textitVanessa cardui )
+  lady butterflies (Vanessa cardui)
 authors:
 - Gerard Talavera
 - Aurora García-Berro
@@ -50,6 +50,8 @@ abstract: 'Migratory insects are key players in ecosystem functioning and servic
   for the Palearctic-African range of V. cardui . We confirm the relevance of the
   Afrotropical region and document the missing natural history pieces of the longest
   migratory cycle described in butterflies.'
+tags:
+- Painted ladies
 links:
 - name: URL
   url: https://pnas.org/doi/10.1073/pnas.2218280120

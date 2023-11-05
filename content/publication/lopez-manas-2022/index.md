@@ -18,6 +18,8 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the National Academy of Sciences*'
 doi: 10.1073/pnas.2121249119
+tags:
+- Painted ladies
 links:
 - name: URL
   url: https://pnas.org/doi/full/10.1073/pnas.2121249119
