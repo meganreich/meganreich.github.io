@@ -26,6 +26,12 @@ tags:
 - Strontium isotopes
 - Hydrogen isotopes
 links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1111/2041-210X.13707
+- icon_pack: ai
+  icon: open-access
+  name: Open Access
+  url: 'https://onlinelibrary.wiley.com/doi/10.1111/2041-210X.13707'
+- icon_pack: ai
+  icon: osf
+  name: Data
+  url: 'https://osf.io/8wzam/'
 ---

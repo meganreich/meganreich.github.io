@@ -84,12 +84,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=EIeQu1MAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/meganreich
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0000-0002-0597-4854
