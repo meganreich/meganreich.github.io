@@ -27,7 +27,7 @@ organizations:
     url: https://www.saivelab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: In my current and future research, I am interested in developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour.
+bio: Just an endlessly curious scientist.
 
 # Interests to show in About widget
 interests:
