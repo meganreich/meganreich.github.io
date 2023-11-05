@@ -79,7 +79,7 @@ features:
   comment:
     provider: disqus
     disqus:
-      shortname: meganreich-github-io.disqus.com
+      shortname: meganreich-github-io
       show_count: true
     commento:
       url: ''
