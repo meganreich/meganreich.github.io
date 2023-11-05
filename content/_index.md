@@ -166,7 +166,7 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: collection
+  - block: collection
     content:
       title: Featured Publications
       filters:
@@ -176,7 +176,7 @@ sections:
     design:
       columns: '2'
       view: card
-   - block: collection
+  - block: collection
     id: media
     content:
       title: In the Media
