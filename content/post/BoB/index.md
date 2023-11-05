@@ -5,8 +5,6 @@ commentable: true
 math: true
 image:
   preview_only: true
-  placement: 2
-  caption: ''
 ---
 
 
