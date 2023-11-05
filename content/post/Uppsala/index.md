@@ -2,6 +2,8 @@
 title: Visiting Uppsala University
 subtitle: Thoughts on moving to Sweden in January, traveling with a cat, and starting new projects in the last year of a PhD
 
+commentable: true
+
 # Summary for listings and search engines
 summary: Thoughts on moving to Sweden in January
 
