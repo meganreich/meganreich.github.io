@@ -11,10 +11,10 @@ summary: Thoughts on moving to Sweden in January
 projects: []
 
 # Date published
-date: '2023-11-04T00:00:00Z'
+date: '2023-08-04T00:00:00Z'
 
 # Date updated
-lastmod: '2023-11-04T00:00:00Z'
+#lastmod: '2023-11-04T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

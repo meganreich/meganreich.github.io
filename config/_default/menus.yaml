@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
+  # - name: Research
+  #   url: '#research'
     weight: 20
   - name: Publications
     url: '#publication'
@@ -16,8 +16,8 @@ main:
   - name: News
     url: '#news'
     weight: 40
-  - name: Media
-    url: '#media'
+  # - name: Media
+  #   url: '#media'
     weight: 50
   - name: Gallery
     url: '#gallery'
