@@ -50,8 +50,9 @@ abstract: 'Rationale: Many insect species undertake multi-generational migration
   data and/or independent geolocation tools.'
 tags:
 - Hydrogen isotopes
-  - icon_pack: ai
-    icon: open-access
-    name: Preprint
-    url: 'https://www.authorea.com/users/637469/articles/653780-a-hydrogen-isoscape-for-tracing-the-migration-of-terrestrial-herbivorous-insects-across-the-afro-palearctic-range?commit=cb0232fa2061bf8b0cae109a89d349e6bc26ee56'
+links:
+- icon_pack: ai
+  icon: open-access
+  name: Preprint
+  url: 'https://www.authorea.com/users/637469/articles/653780-a-hydrogen-isoscape-for-tracing-the-migration-of-terrestrial-herbivorous-insects-across-the-afro-palearctic-range?commit=cb0232fa2061bf8b0cae109a89d349e6bc26ee56'
 ---
