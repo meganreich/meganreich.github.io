@@ -130,14 +130,10 @@ sections:
       subtitle: 'Free-to-read open access versions of all publications can be found via links with the{{< icon name="open-access" pack="ai" >}}icon.<br><br>
       
       For an up-to-date list of publications, see {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=EIeQu1MAAAAJ&hl=en).'
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
