@@ -1,5 +1,5 @@
 ---
-title: Intercontinental panmixia despite distinct migration distances in the trans-Saharan butterfly migrant [i]Vanessa cardui[/i]
+title: Intercontinental panmixia despite distinct migration distances in the trans-Saharan butterfly migrant <i>Vanessa cardui</i>
 authors:
 - Megan S. Reich
 - Daria Shipilina
