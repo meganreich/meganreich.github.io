@@ -29,5 +29,5 @@ links:
 - icon_pack: ai
   icon: open-access
   name: Open Access
-  url: 'https://doi.org/10.1002/rcm.9675'
+  url: https://doi.org/10.1002/rcm.9675
 ---
