@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD in Biology
       institution: University of Ottawa
-      year: in progress
+      year: 2023
     - course: BSc in Environmental Sciences
       institution: University of British Columbia
       year: 2015
@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich is a PhD candidate at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research so far has focused on developing isotope-based geographic assignment to trace the natal origins of wild-caught migratory insects.
+Megan Reich recently defended her PhD at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to trace the natal origins of wild-caught migratory insects.
 {style="text-align: justify;"}
