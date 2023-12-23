@@ -1,5 +1,5 @@
 ---
-title: Successful defense
+title: Successful PhD defence
 subtitle: Finishing graduate school
 
 commentable: true
