@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich recently defended her PhD at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to trace the natal origins of wild-caught migratory insects.
+Megan Reich recently defended her PhD at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to understand the migratory patterns and migratory connectivity of insects.
 {style="text-align: justify;"}
