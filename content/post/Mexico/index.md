@@ -13,4 +13,3 @@ In February 2024, I was invited as part of the Canadian delegation to Mexico to 
 
 
 
-{{< gallery album="Mexico">}}
