@@ -77,7 +77,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mreic084@uottawa.ca
+    link: mailto:mreich@uottawa.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/meganreich13
