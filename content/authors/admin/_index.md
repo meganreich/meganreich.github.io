@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD in Biology
       institution: University of Ottawa
-      year: 2023
+      year: 2024
     - course: BSc in Environmental Sciences
       institution: University of British Columbia
       year: 2015
@@ -86,7 +86,7 @@ social:
       header: true
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/my-orcid?orcid=0000-0002-0597-4854
+    link: https://orcid.org/0000-0002-0597-4854
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich recently defended her PhD at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to understand the migratory patterns and migratory connectivity of insects.
+Megan Reich is a Postdoctoral Fellow at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to understand the migratory patterns and migratory connectivity of insects.
 {style="text-align: justify;"}
