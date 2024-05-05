@@ -1,5 +1,6 @@
 ---
 title: Trilateral Scientific Group Meeting on the Monarch Butterfly, 2024
+subtitle: Conservation research priorities for the monarch butterfly
 date: 2024-05-05
 commentable: true
 math: true

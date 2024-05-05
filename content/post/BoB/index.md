@@ -1,5 +1,6 @@
 ---
 title: Biology of Butterflies 2023
+subtitle: Prague, Czech Republic
 date: 2023-07-14
 commentable: true
 math: true
