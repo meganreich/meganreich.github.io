@@ -32,7 +32,7 @@ bio: Just an endlessly curious scientist.
 # Interests to show in About widget
 interests:
   - Insect migration
-  - Stable and metal isotopes
+  - isotope geolocation
   - Interdisciplinary science
 
 # Education to show in About widget
