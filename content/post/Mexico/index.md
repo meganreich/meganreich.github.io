@@ -20,6 +20,6 @@ Although many questions regarding the monarch’s migration, ecology, and popula
 
 I am optimistic about the future of the monarch butterfly. Many smart, dedicated, and brave people from all walks of life are committed to helping the monarch. The monarch itself is a resilient species, with high genetic diversity and the ability to rebound its population size quickly, given favourable conditions. I hope that, with all hands on deck, the monarch will recover to a robust population size. Then, I can return to Mexico and see many millions of healthy monarchs overwintering peacefully in the forest.
 
-{{< gallery album="Mexico">}}
+
 
 
