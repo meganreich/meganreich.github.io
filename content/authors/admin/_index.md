@@ -100,5 +100,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich is a Postdoctoral Fellow at the University of Ottawa. Her research interests include developing and applying techniques to track the long-range movements of animals, clarifying the genetic basis of migration, and exploring how environmental conditions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment to understand the migratory patterns and migratory connectivity of insects.
+Megan Reich is a Postdoctoral Fellow at the University of Ottawa. Her research interests include developing, integrating, and  applying techniques to track the long-range movements of animals, and exploring how environmental conditions and biotic interactions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment using hydrogen and strontium isotopes to understand the migratory patterns and migratory connectivity of butterflies.
 {style="text-align: justify;"}
