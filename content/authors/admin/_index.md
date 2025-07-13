@@ -24,7 +24,7 @@ organizations:
   - name: University of Ottawa
     url: https://www.uottawa.ca/faculty-science/biology
   - name: SAiVE lab
-    url: https://www.saivelab.com/
+    url: https://clementbataille.wixsite.com/earthscience
 
 # Short bio (displayed in user profile at end of posts)
 bio: Just an endlessly curious scientist.
