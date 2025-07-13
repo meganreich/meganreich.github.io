@@ -1,6 +1,5 @@
 ---
-title: A hydrogen isoscape for tracing the migration of terrestrial herbivorous insects
-  across the Afro-Palearctic range
+title: 'A hydrogen isoscape for tracing the migration of herbivorous lepidopterans across the Afro‐Palearctic range'
 authors:
 - Sana Ghouri
 - Megan S. Reich
@@ -12,10 +11,11 @@ authors:
 - Steve C. Collins
 - Dino J. Martins
 - Clement Bataille
-date: '2023-12-15'
-publishDate: '2023-12-22T04:14:55.759794Z'
+date: '2024-02-15'
+publishDate: '2024-2-15T04:14:55.759794Z'
 publication_types:
 - article-journal
+publication: '*Rapid Communications in Mass Spectrometry*'
 abstract: 'Rationale: <br> Many insect species undertake multigenerational migrations in the Afro-tropical and Palearctic ranges, and understanding their migratory connectivity remains challenging due to their small size, short life span and large population sizes. Hydrogen isotopes (δ2H) can be used to reconstruct the movement of dispersing or migrating insects, but applying δ2H for provenance requires a robust isotope baseline map (i.e. isoscape) for the Afro-Palearctic.  
 <br>
   Methods: <br> We analyzed the δ2H in the wings (δ2Hwing) of 142 resident butterflies from 56 sites across the Afro-Palearctic. The δ2Hwing values were compared to the predicted local growing-season precipitation δ2H values (δ2HGSP) using a linear regression model to develop an insect wing δ2H isoscape. We used multivariate linear mixed models and high-resolution and time-specific remote sensing climate and environmental data to explore the controls of the residual δ2Hwing variability.  
