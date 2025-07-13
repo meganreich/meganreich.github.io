@@ -78,7 +78,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:mreich@uottawa.ca
-  - icon: custom/bluesky.svg
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/megansreich.bsky.social
     label: Follow me on Bluesky
     display:
