@@ -22,7 +22,6 @@ tags:
 - Painted ladies
 - Population genomics
 links:
-links:
 - icon_pack: ai
   icon: open-access
   name: Open Access
