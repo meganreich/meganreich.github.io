@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Peer-reviewed publications
 cms_exclude: true
 
 # View.

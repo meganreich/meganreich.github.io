@@ -1,5 +1,5 @@
 ---
-title: Pollen metabarcoding reveals the origin and multigenerational migratory pathway of an intercontinental-scale butterfly outbreak
+title: 'Pollen metabarcoding reveals the origin and multigenerational migratory pathway of an intercontinental-scale butterfly outbreak.'
 authors:
 - Johanna L. Gorki
 - Roger López-Mañas
@@ -18,7 +18,6 @@ authors:
 - Roger Vila
 - Tomasz Suchan
 - Gerard Talavera
-
 date: '2024-06-17'
 publishDate: '2024-06-17T04:14:55.759794Z'
 publication_types:
