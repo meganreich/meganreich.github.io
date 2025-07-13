@@ -83,9 +83,6 @@ social:
     label: Follow me on Bluesky
     display:
       header: true
-  - icon: twitter
-    icon_pack: fas
-    link: https://twitter.com/meganreich13
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-0597-4854
