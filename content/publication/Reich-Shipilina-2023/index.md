@@ -24,6 +24,6 @@ tags:
 links:
 - icon_pack: ai
   icon: open-access
-  name: open-access
+  name: Open Access
   url: https://doi.org/10.1093/pnasnexus/pgae586
 ---
