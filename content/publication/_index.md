@@ -1,7 +1,7 @@
 ---
 title: Peer-reviewed publications
 cms_exclude: true
-
+citation_style: apa
 # View.
 #   1 = List
 #   2 = Compact
