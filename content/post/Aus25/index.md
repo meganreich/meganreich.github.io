@@ -48,7 +48,7 @@ Early in 2025, I ventured Down Under to meet a very special insect – the Bogon
 
 The Bogong moth is vitally important to alpine ecosystems as a key food source for many animals, including the endangered mountain pygmy-possum. It’s also culturally important. This importance was impressed upon me at the Bogong Summit meeting, led by Prof Kate Umbers, where fantastic panel discussions by a diverse group of stakeholders outlined goals and priorities for the conservation of this insect. Additionally, this meeting highlighted some knowledge gaps that need to be filled to help refine conservation action, such as a better understanding of migratory patterns and connectivity. 
 
-That’s where I come in! Together with some exceptionally talented new colleagues, including Eric Warrant, Ken Green, Peter Caley, Kate Umbers, Eleanor Drinkwater, and Claire Dittemore, we’ve started a project applying isotope geolocation to unravel the migratory patterns of the Bogong moth. I can’t wait to share what we find!
+That’s where I come in! Together with some exceptionally talented new colleagues, including Eric Warrant, Ken Green, Peter Caley, Kate Umbers, Eleanor Drinkwater, and Clare Dittemore, we’ve started a project applying isotope geolocation to unravel the migratory patterns of the Bogong moth. I can’t wait to share what we find!
 
 {{< gallery album = "aus">}}
 
