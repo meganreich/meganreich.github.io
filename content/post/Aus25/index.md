@@ -42,7 +42,7 @@ categories:
 ---
 
 
-## Back to Australia
+## Back to Australia:
 
 Early in 2025, I ventured Down Under to meet a very special insect – the Bogong moth! This noctuid moth exhibits very interesting migratory behaviour. In the Australian spring, adult moths migrate to aestivation sites in the Australian Alps. The moths congregate in cool boulder fields and caves, waiting out the summer heat. Then, in the autumn, they migrate back to their (somewhat mysterious) breeding grounds to start the cycle all over again!
 
@@ -50,7 +50,7 @@ The Bogong moth is vitally important to alpine ecosystems as a key food source f
 
 That’s where I come in! Together with some exceptionally talented new colleagues, including Eric Warrant, Ken Green, Peter Caley, Kate Umbers, Eleanor Drinkwater, and Claire Dittemore, we’ve started a project applying isotope geolocation to unravel the migratory patterns of the Bogong moth. I can’t wait to share what we find!
 
-
+{{< gallery album = "aus">}}
 
 Interested in learning more about this incredible moth? [Check out Bogong Watch!](https://www.bogong.org/)
 
