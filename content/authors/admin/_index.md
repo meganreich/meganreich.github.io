@@ -21,8 +21,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Ottawa
-    url: https://www.uottawa.ca/faculty-science/biology
+  - name: Purdue University
+    url: https://ag.purdue.edu/pi2/msreich
   - name: SAiVE lab
     url: https://clementbataille.wixsite.com/earthscience
 
@@ -31,9 +31,9 @@ bio: Just an endlessly curious scientist.
 
 # Interests to show in About widget
 interests:
-  - Insect migration
+  - insect migration
   - isotope geolocation
-  - Interdisciplinary science
+  - interdisciplinary science
 
 # Education to show in About widget
 education:
@@ -77,7 +77,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mreich@uottawa.ca
+    link: mailto:meganreich13@gmail.com
   - icon: bluesky
     icon_pack: fab
     link: https://bsky.app/profile/megansreich.bsky.social
@@ -98,5 +98,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich is a Postdoctoral Fellow at the University of Ottawa. Her research interests include developing, integrating, and  applying techniques to track the long-range movements of animals, and exploring how environmental conditions and biotic interactions influence migratory and dispersal behaviour. Her doctoral research focused on developing isotope-based geographic assignment using hydrogen and strontium isotopes to understand the migratory patterns and migratory connectivity of butterflies.
+Megan Reich is currently a Postdoctoral Research Associate at Purdue University. Her research interests include developing, integrating, and  applying techniques to track the long-range movements of insects, and exploring how environmental conditions and biotic interactions influence migratory behaviour. Her doctoral research focused on developing isotope-based geographic assignment using hydrogen and strontium isotopes to understand the migratory patterns and migratory connectivity of insects, including the monarch and painted lady butterfly.
 {style="text-align: justify;"}
