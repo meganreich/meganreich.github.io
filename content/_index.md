@@ -208,23 +208,23 @@ sections:
       text: |-
         Interested in collaborating? Have a question? Send me a message!
       # Contact (add or remove contact options as necessary)
-      email: megan.reich@uottawa.ca
+      email: mreich@uow.edu.au
       #appointment_url: 'https://calendly.com'
       address:
-        street: 25 Templeton St
-        city: Ottawa
-        region: ON
-        postcode: 'K1N 6N5'
-        country: Canada
-        country_code: CAN
+        street: 41 Northfields Ave
+        city: Keiraville
+        region: NSW
+        postcode: '2500'
+        country: Australia
+        country_code: AUS
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '45.420679'
-        longitude: '-75.678673'  
+        latitude: '-34.4056'
+        longitude: '150.8816'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
