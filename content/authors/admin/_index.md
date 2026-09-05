@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Purdue University
-    url: https://ag.purdue.edu/pi2/msreich
-  - name: SAiVE lab
-    url: https://clementbataille.wixsite.com/earthscience
+  - name: University of Wollongong
+    url: https://www.uow.edu.au/
+  - name: WIGL
+    url: https://www.uow.edu.au/science-medicine-health/research/wollongong-isotope-geochronology-laboratory-wigl/?utm_source=google&utm_medium=cpc&utm_campaign=uow-ug-ao&utm_content=p_sem_brand&utm_id=UOW024
 
 # Short bio (displayed in user profile at end of posts)
 bio: Just an endlessly curious scientist.
@@ -32,8 +32,7 @@ bio: Just an endlessly curious scientist.
 # Interests to show in About widget
 interests:
   - insect migration
-  - isotope geolocation
-  - interdisciplinary science
+  - isotope ecology
 
 # Education to show in About widget
 education:
@@ -44,6 +43,18 @@ education:
     - course: BSc in Environmental Sciences
       institution: University of British Columbia
       year: 2015
+      
+experience:
+  courses:
+    - course: Postdoctoral Research Associate
+      institution: University of Wollongong
+      year: 2026-current
+    - course: Postdoctoral Research Associate
+      institution: Purdue University
+      year: 2026
+    - course: Postdoctoral Fellow
+      institution: University of Ottawa
+      year: 2024-2026
 
 # # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -98,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Megan Reich is currently a Postdoctoral Research Associate at Purdue University. Her research interests include developing, integrating, and  applying techniques to track the long-range movements of insects, and exploring how environmental conditions and biotic interactions influence migratory behaviour. Her doctoral research focused on developing isotope-based geographic assignment using hydrogen and strontium isotopes to understand the migratory patterns and migratory connectivity of insects, including the monarch and painted lady butterfly.
+Megan Reich is currently a Postdoctoral Research Associate at The University of Wollongong, Australia. Her research interests include developing, integrating, and  applying techniques to track the long-range movements of insects, and exploring how environmental conditions and biotic interactions influence migratory behaviour. Her doctoral research focused on developing isotope-based geographic assignment using hydrogen and strontium isotopes to understand the migratory patterns and migratory connectivity of insects, including the monarch and painted lady butterfly.
 {style="text-align: justify;"}
