@@ -43,8 +43,9 @@ education:
     - course: BSc in Environmental Sciences
       institution: University of British Columbia
       year: 2015
-      
-experience:
+
+# Experiences to show in About widget
+experiences:
   courses:
     - course: Postdoctoral Research Associate
       institution: University of Wollongong
